@@ -1,4 +1,4 @@
-#Iporting the neccesary package
+#Importing the neccesary package
 import pandas as pd
 import numpy as np
 import seaborn as sns
